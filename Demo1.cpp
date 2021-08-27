@@ -39,7 +39,7 @@ class Array
                 cout<<ptr[icnt]<<"\n";
             }
         }
-
+        
 };                              //          Diagramiatc Representation of Dynamic Memory
                                 //
 int main()                      //      _______         ************ 100     _0__ _1__2 _ 3_ _4 _
